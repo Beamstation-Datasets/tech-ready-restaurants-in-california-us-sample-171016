@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4ac16549-a88f-4e6e-884a-2e67f1ad25b5",
+  "id_short": 171016,
+  "published_at": "2026-04-11T19:03:32Z",
+  "repo_name": "tech-ready-restaurants-in-california-us-sample-171016",
+  "sample_asset_name": "beamstation_171016_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/171016/beamstation_171016_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 19,
+  "sample_sha256": "6805b81e0a41afd1d34b41612139ee85729b7f79ed239ff48452fe730e106ac7",
+  "sample_size_bytes": 86196,
+  "total_records": 199
+}
